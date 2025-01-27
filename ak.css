@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #390a93,#4203bafc);
+    color: #fff;
+    
+}
+
+.calculator{
+    width: 100%;
+    max-width: 600px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 10%;
+}
+
+.calculator h1{
+    font-size: 40px;
+    color:#fff;
+}
+
+.calculator h1 span{
+    color: aqua;
+}
+
+.calculator input,button{
+    margin-top: 10px;
+    padding-left: 5px;
+    padding-right: 8px;
+}
+
+
+    
